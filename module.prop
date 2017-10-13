@@ -3,5 +3,5 @@ name=Google Framework
 version=v1.0
 versionCode=10
 author=P1N2O
-description=Injects Google (Pixel) Framework to make Google Apps compatible on all android devices.
+description=Injects Google Framework to make Google Apps compatible on all android devices.
 template=1400
