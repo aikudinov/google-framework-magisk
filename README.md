@@ -1,6 +1,5 @@
 # Google Framework
 
-## Features ##
 * Google Apps (like Google Dialer) on any unsupported device
 * Google Photos - Unlimited Storage at Original Resolution
 * Google Wallpapers - Access to Pixel Exclusive Wallpapers
