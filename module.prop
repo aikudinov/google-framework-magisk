@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=google-framework
+name=Google Framework
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=P1N2O
+description=This module injects Google Framework to make Google Apps work on any android device.
 template=1400
