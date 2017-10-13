@@ -16,5 +16,6 @@
 <a href="https://paypal.me/pinto165">Paypal</a>
 
 ## Credits ##
-* <a href="https://github.com/topjohnwu">topjohnwu</a>
-* <a href="https://forum.xda-developers.com/member.php?s=20e6e309873e6b7e0892e0d45f1ce1cd&u=6995375">emime12</a>
+* <a href="https://github.com/topjohnwu">topjohnwu</a> - Magisk
+* <a href="https://forum.xda-developers.com/member.php?s=20e6e309873e6b7e0892e0d45f1ce1cd&u=6995375">emime12</a> - Google Photos
+* <a href="https://forum.xda-developers.com/member.php?s=20e6e309873e6b7e0892e0d45f1ce1cd&u=6995375">Thomas_BA</a> - Google Frameworks
