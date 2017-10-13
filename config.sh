@@ -41,9 +41,11 @@ LATESTARTSERVICE=false
 # Set what you want to show when installing your mod
 
 print_modname() {
+  ui_print ""
   ui_print "*******************************"
   ui_print "        Google Framework       "
   ui_print "*******************************"
+  ui_print ""
 }
 
 ##########################################################################################
