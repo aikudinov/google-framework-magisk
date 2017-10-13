@@ -1,11 +1,21 @@
-# Magisk Module Template
+# Google Framework
 
-For more information about modules and repos, please check the [official documentations](https://github.com/topjohnwu/Magisk/blob/master/docs/module_repo.md)
+## Features ##
+* Google Apps (like Google Dialer) on any unsupported device
+* Google Photos - Unlimited Storage at Original Resolution
+* Google Wallpapers - Access to Pixel Exclusive Wallpapers
 
-### README.md
+## Instructions ##
+* Install Module via Magisk Manager/Recovery
+* Clear Data of Google Play Store/Google Photos
+* Reboot Device
 
-This `README.md` can be shown in Magisk Manager. Place any information/changelog/notes you like.
+## Contact ##
+<a href="https://github.com/P1N2O/google-framework-magisk/issues">Commit an Issues</a>
 
-**Please update `README.md` if you want to submit your module to the online repo!**
+## Donate ##
+<a href="https://paypal.me/pinto165">Paypal</a>
 
-You can edit your `README.md` within Github's online editor, it also has an preview button! Check the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for markdown syntaxes, it's super easy!
+## Credits ##
+* <a href="https://github.com/topjohnwu">topjohnwu</a>
+* <a href="https://forum.xda-developers.com/member.php?s=20e6e309873e6b7e0892e0d45f1ce1cd&u=6995375">emime12</a>
