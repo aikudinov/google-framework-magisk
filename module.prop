@@ -1,7 +1,7 @@
 id=google-framework
 name=Google Framework
-version=v1.0
-versionCode=10
+version=v1.1
+versionCode=11
 author=P1N2O
 description=Injects Google Framework to make Google Apps compatible on all android devices.
 template=1400

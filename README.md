@@ -1,12 +1,11 @@
 # Google Framework
-* __Google Apps__ (like Google Dialer) on any unsupported device
-* __Google Photos__ - Unlimited Storage at Original Resolution
-* __Google Wallpapers__ - Access to Pixel Exclusive Wallpapers
+Inject Google Framework to be able to downoad __Google Apps__ (like Google Dialer) on any unsupported device
 
 ## Instructions ##
 * __Install Module__ via Magisk Manager/Recovery
-* __Clear Data__ of Google Play Store/Google Photos
+* __Clear Data__ of Google Play Store
 * __Reboot__ Device
+* __Download__ Apps from Play Store
 
 ## Contact ##
 <a href="https://github.com/P1N2O/google-framework-magisk/issues">Commit an Issue</a>
