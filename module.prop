@@ -1,7 +1,7 @@
 id=google-framework
 name=Google Framework
-version=v1.1
-versionCode=11
+version=v1.2
+versionCode=12
 author=P1N2O
 description=Inject Google Framework to be able to downoad Google Apps (like Google Phone/Dialer) from Play Store on any unsupported device.
 template=1400
