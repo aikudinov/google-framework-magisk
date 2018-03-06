@@ -9,12 +9,9 @@ Inject Google Framework to be able to downoad __Google Apps__ (like Google Phone
 
 ## Changelog ##
 
-<<<<<<< HEAD
 #### V1.3 ####
 * Updated to __Magisk 1500__ Template
 
-=======
->>>>>>> 828bad741b1d889f796d6622e5582303656ed230
 #### V1.2 ####
 * Fixed __Device Unsupported__ Dialog in Dialer
 
