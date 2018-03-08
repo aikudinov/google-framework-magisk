@@ -8,7 +8,7 @@ Inject Google Framework to be able to downoad __Google Apps__ (like Google Phone
 * __Install Module__ via Magisk Manager/TWRP
 * __Clear Data__ of Google Play Store
 * __Reboot__ Device (Optional)
-* __Download__ Required Apps from Play Store
+* __Download__ required Apps from Play Store
 
 
 ## Changelog ##
