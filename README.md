@@ -2,7 +2,6 @@
 
 Inject Google Framework to be able to downoad __Google Apps__ (like Google Phone, Dialer etc.) from Play Store on any unsupported device.
 
----
 
 ## Instructions ##
 
@@ -33,7 +32,6 @@ Inject Google Framework to be able to downoad __Google Apps__ (like Google Phone
 ## Contact ##
 <a href="https://github.com/Magisk-Modules-Repo/google-framework-magisk/issues">Commit an Issue</a>
 
----
 
 ## Donate ##
 <a href="https://paypal.me/pinto165">PayPal</a>
